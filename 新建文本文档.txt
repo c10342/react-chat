@@ -1,0 +1,4 @@
+http://www.jb51.net/article/52090.htm
+
+
+https://reacttraining.com/react-router/web/api/Redirect
